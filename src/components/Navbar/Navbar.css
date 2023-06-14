@@ -1,0 +1,7 @@
+.navbar-list {
+	display: flex !important;
+	flex-direction: row !important;
+	justify-content: space-around;
+	margin: 2%;
+	background-color: antiquewhite;
+}
